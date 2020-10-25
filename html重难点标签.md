@@ -121,4 +121,4 @@
   onsubmit   
 
 ### 注意点
- 需要跟input配合使用submit事件使用
+ 需要跟submit事件配合使用，input默认type默认是submit
